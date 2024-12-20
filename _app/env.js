@@ -1,1 +1,1 @@
-export const env={"PUBLIC_WS_HOST_URL":"ws://localhost:12122/websocket","PUBLIC_PROFILE_URL":"http://localhost:12121"}
+export const env={"PUBLIC_WS_HOST_URL":"wss://eloback.neuroranks.chat:2053/websocket","PUBLIC_PROFILE_URL":"https://eloback.neuroranks.chat:2083"}
